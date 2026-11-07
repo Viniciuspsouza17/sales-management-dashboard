@@ -55,13 +55,26 @@ O projeto foi criado para praticar desenvolvimento front-end, organização de c
 
 ## Demonstração
 
+### Tela de Login
+
+![Tela de Login do Sales Manager](screenshots/login.png)
+
 ### Dashboard de Vendas
 
 ![Dashboard do Sales Manager](screenshots/dashboard.png)
 
-### Tela de Login
+### Gerenciamento de Clientes
 
-![Tela de Login do Sales Manager](screenshots/login.png)
+![Cadastro de Clientes](screenshots/clientes.png)
+
+### Gerenciamento de Produtos
+
+![Controle de Produtos e Estoque](screenshots/produtos.png)
+
+### Registro de Vendas
+
+![Registro e Histórico de Vendas](screenshots/vendas.png)
+
 
 
 ## Como executar o projeto
