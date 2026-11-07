@@ -1,0 +1,55 @@
+
+.tabela-container {
+  width: 100%;
+}
+
+.tabela-scroll {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.tabela-vendas {
+  width: 100%;
+  min-width: 650px;
+  border-collapse: collapse;
+  text-align: left;
+}
+
+.tabela-vendas th,
+.tabela-vendas td {
+  padding: 16px;
+  border-bottom: 1px solid #e2e8f0;
+}
+
+.tabela-vendas th {
+  color: #64748b;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.tabela-vendas td {
+  font-size: 14px;
+}
+
+.status {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.status-concluído {
+  background: #dcfce7;
+  color: #166534;
+}
+
+.status-pendente {
+  background: #fef3c7;
+  color: #92400e;
+}
+
+.status-cancelado {
+  background: #fee2e2;
+  color: #991b1b;
+}
